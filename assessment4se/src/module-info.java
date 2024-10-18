@@ -4,5 +4,3 @@
 /**
  * 
  */
-module assessment4se {
-}
