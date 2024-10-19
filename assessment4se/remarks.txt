@@ -1,0 +1,32 @@
+Prescription ID: 1
+Remark: This client is happy with the service.
+Remark Type: Client
+
+Prescription ID: 1
+Remark: This client is happy with the service.
+Remark Type: Optometrist
+
+Prescription ID: 1
+Remark: The client liked the service and said is going to become a regular.
+Remark Type: optometrist
+
+Prescription ID: 1
+Remark: The service was excellent and professional.
+Remark Type: client
+
+Prescription ID: 1
+Remark: The client liked the service and said is going to become a regular.
+Remark Type: optometrist
+
+Prescription ID: 1
+Remark: The customer said he liked how staff was so friendly and cooperative.
+Remark Type: optometrist
+
+Prescription ID: 1
+Remark: The service was excellent and professional.
+Remark Type: client
+
+Prescription ID: 1
+Remark: This is the customer remark which should be added.
+Remark Type: client
+
