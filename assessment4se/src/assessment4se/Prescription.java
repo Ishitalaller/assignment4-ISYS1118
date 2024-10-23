@@ -46,7 +46,7 @@ public class Prescription {
             optometrist.length() >= 8 && optometrist.length() <= 25) {
 
             // If conditions are met, write the prescription details to a file
-            try (BufferedWriter writer = new BufferedWriter(new FileWriter("prescption.txt", true))) {
+            try (BufferedWriter writer = new BufferedWriter(new FileWriter("Prescription.txt", true))) {
                 SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yy");
                 writer.write("Prescription ID: " + prescID + "\n");
                 writer.write("First Name: " + firstName + "\n");
@@ -80,7 +80,7 @@ public class Prescription {
 
 
             // Write the remark to a file
-            try (BufferedWriter writer = new BufferedWriter(new FileWriter("remarks.txt", true))) {
+            try (BufferedWriter writer = new BufferedWriter(new FileWriter("Remarks.txt", true))) {
                 writer.write("Prescription ID: " + prescID + "\n");
                 writer.write("Remark: " + remark + "\n");
                 writer.write("Remark Type: " + remarkType + "\n");
